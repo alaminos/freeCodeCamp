@@ -12,7 +12,7 @@ Para que los usuarios no videntes tengan una experiencia agradable en su sitio w
 
 Para permitir que los usuarios no videntes se salten al contenido principal de un sitio y eviten navegar por todos los enlaces de navegación principales:
 
-1.  Cree un "vínculo de omisión de navegación" que viva directamente debajo de la etiqueta del `body` apertura.
+1.  Cree un "vínculo de omisión de navegación" que viva directamente debajo de la etiqueta de apertura del `body`.
 
 ```html
 
