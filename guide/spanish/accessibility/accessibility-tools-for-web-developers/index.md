@@ -39,4 +39,4 @@ Existen muchas herramientas y recursos en línea que pueden ayudarlo a garantiza
 
 #### Más recursos
 
-Puede encontrar muchas más herramientas para el diseño web accesible en [esta lista](http://www.d.umn.edu/itss/training/online/webdesign/tools.html) realizada por la Universidad de Minnesota Duluth.
+Puede encontrar muchas más herramientas para el diseño web accediendo en [esta lista](http://www.d.umn.edu/itss/training/online/webdesign/tools.html) realizada por la Universidad de Minnesota Duluth.
